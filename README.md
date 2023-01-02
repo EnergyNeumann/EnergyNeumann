@@ -39,7 +39,7 @@ I am also a high school student at <a href=“https://www.ifsp.edu.br/“>Instit
   <a href = "mailto:richardklaossneumann@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/richard-neumann-3b73b325a/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
     
-  ![Snake animation](https://github.com/EnergyNeumann/EnergyNeumann/blob/output/github-contribution-grid-snake.svg)
+  ![snake gif](https://github.com/EnergyNeumann/EnergyNeumann/blob/output/github-contribution-grid-snake.svg)
     
   </div>
 
