@@ -1,16 +1,47 @@
-### Hi there 👋
+### Hello 😎 I am Richard Neumann
 
-<!--
-**EnergyNeumann/EnergyNeumann** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#### Full Stack Software Developer
 
-Here are some ideas to get you started:
+I'm a 17 years old developer and I have been programming since I was 15. I love trying with new codes and developing myself in projects that will help me improve my knowledge.
+I'm always trying to learn more and more! 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I am also a high school student at <a href=“https://www.ifsp.edu.br/“>Instituto Federal de São Paulo</a>.
+
+- 🌍 I'm based in São Paulo, Brazil
+- ✉️ You can contact me at richardklaossneumann@gmail.com
+- 🚀 I'm currently just studying
+- 🧠 I'm learning Python, Javascript, going to C# and .NET
+- 🤝 I'm open to collaborating on projects that will serve for learning
+- 🎮 I love video games
+
+<div align="center">
+  <a href="https://github.com/EnergyNeumann">
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=EnergyNeumann&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EnergyNeumann&layout=compact&langs_count=7&theme=dark"/>
+</div>
+  
+#### Skills and Learnings
+  <div style="display: inline_block">
+  <img align="center" alt="c#" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"/>
+  <img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img align="center" alt="css" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img align="center" alt="js" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img align="center" alt="python" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white"/>
+  <img align="center" alt="mysql" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img align="center" alt="php" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
+  <img align="center" alt=".NET" src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white" />
+</div><br/>
+  
+  <div> 
+  <a href="https://www.instagram.com/richardneumann3007/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+ 	<a href="https://www.twitch.tv/rafaballerinii" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
+ <a href="https://discord.gg/" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
+  <a href = "mailto:richardklaossneumann@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/richard-neumann-3b73b325a/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+    
+  ![Snake animation](https://github.com/EnergyNeumann/EnergyNeumann/blob/output/github-contribution-grid-snake.svg)
+    
+  </div>
+
+
+
