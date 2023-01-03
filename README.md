@@ -8,7 +8,7 @@ I'm always trying to learn more and more!
 I am also a high school student at <a href=“https://www.ifsp.edu.br/“>Instituto Federal de São Paulo</a>.
 
 - 🌍 I'm based in São Paulo, Brazil
-- ✉️ You can contact me at richardklaossneumann@gmail.com
+- ✉️ You can contact me at richardncontato@gmail.com
 - 🚀 I'm currently just studying
 - 🧠 I'm learning Python, Javascript, going to C# and .NET
 - 🤝 I'm open to collaborating on projects that will serve for learning
