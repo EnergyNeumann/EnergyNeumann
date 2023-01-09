@@ -14,6 +14,8 @@ I am also a high school student at <a href=“https://www.ifsp.edu.br/“>Instit
 - 🤝 I'm open to collaborating on projects that will serve for learning
 - 🎮 I love video games
   
+  ![EnergyNeumann's GitHub stats](https://github-readme-stats.vercel.app/api?username=EnergyNeumann&theme=transparent&show_icons=true)
+  
 #### Skills
   <div style="display: inline_block">
   <img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
