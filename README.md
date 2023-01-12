@@ -13,6 +13,8 @@ I am also a high school student at <a href=“https://www.ifsp.edu.br/“>Instit
 - 🧠 I'm learning Python, Javascript, going to C# and .NET
 - 🤝 I'm open to collaborating on projects that will serve for learning
 - 🎮 I love video games
+
+![EnergyNeumann's GitHub stats](https://github-readme-stats.vercel.app/api?username=EnergyNeumann&theme=nord&show_icons=true)
   
 #### Skills
   <div style="display: inline_block">
