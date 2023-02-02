@@ -10,7 +10,7 @@ I am also a high school student at <a href=“https://www.ifsp.edu.br/“>Instit
 - 🌍 I'm based in São Paulo, Brazil
 - ✉️ You can contact me at richardncontato@gmail.com
 - 🚀 I'm currently just studying
-- 🧠 I'm learning Python, Javascript, going to C# and .NET
+- 🧠 I'm learning Javascript, going to C# and .NET
 - 🤝 I'm open to collaborating on projects that will serve for learning
 - 🎮 I love video games
 
