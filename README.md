@@ -5,7 +5,7 @@
 I'm a 18 years old developer and I have been programming since I was 15. I love trying with new codes and developing myself in projects that will help me improve my knowledge.
 I'm always trying to learn more and more! 
 
-I am also a high school student at <a href=“https://www.ifsp.edu.br/“>Instituto Federal de São Paulo</a>.
+I am also a computer technician formed at <a href=“https://www.ifsp.edu.br/“>Instituto Federal de São Paulo</a>.
 
 - 🌍 I'm based in São Paulo, Brazil
 - ✉️ You can contact me at richardneumann.dev@gmail.com
