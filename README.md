@@ -12,7 +12,7 @@ I am also a computer technician formed at <a href=“https://www.ifsp.edu.br/“
 - 🚀 I'm currently just studying
 - 🧠 I'm learning Javascript and database
 - 🤝 I'm open to collaborating on projects that will serve for learning
-- 🎮 I love video games
+- 📖 I am an English proficient
 
 ![EnergyNeumann's GitHub stats](https://github-readme-stats.vercel.app/api?username=EnergyNeumann&theme=nord&show_icons=true)
   
