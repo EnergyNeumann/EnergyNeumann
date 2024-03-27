@@ -10,7 +10,7 @@ I am also a computer technician formed at <a href=“https://www.ifsp.edu.br/“
 - 🌍 I'm based in São Paulo, Brazil
 - ✉️ You can contact me at richardneumann.dev@gmail.com
 - 🚀 I'm currently just studying
-- 🧠 I'm learning Javascript and database
+- 🧠 I'm learning database
 - 🤝 I'm open to collaborating on projects that will serve for learning
 - 📖 I am an English proficient
 
